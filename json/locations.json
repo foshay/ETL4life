@@ -1,0 +1,32 @@
+[
+    {
+        "location_id": 1,
+        "name": "one",
+        "address": "2245 Easy Street Apt 1, Portland OR, 97201",
+        "open_date": "01/02/2003"
+    },
+    {
+        "location_id": 2,
+        "name": "two",
+        "address": "2245 Easy Street Apt 2, Portland OR, 97201",
+        "open_date": "01/02/2004"
+    },
+    {
+        "location_id": 3,
+        "name": "three",
+        "address": "2245 Easy Street Apt 3, Portland OR, 97201",
+        "open_date": "01/02/2005"
+    },
+    {
+        "location_id": 4,
+        "name": "four",
+        "address": "2245 Easy Street Apt 4, Portland OR, 97201",
+        "open_date": "01/02/2006"
+    },
+    {
+        "location_id": 5,
+        "name": "five",
+        "address": "2245 Easy Street Apt 5, Portland OR, 97201",
+        "open_date": "01/02/2007"
+    }
+]
