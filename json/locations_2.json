@@ -1,0 +1,72 @@
+[
+    {
+        "location_id": 1,
+        "name": "one",
+        "address": {
+            "street": "2245 Easy Street Apt 1",
+            "city": "Portland",
+            "state": "OR",
+            "zip_code": "97201"
+        },
+        "operating_dates": {
+            "open_date": "01/02/2003",
+            "close_date": null
+        }
+    },
+    {
+        "location_id": 2,
+        "name": "two",
+        "address": {
+            "street": "2245 Easy Street Apt 2",
+            "city": "Portland",
+            "state": "OR",
+            "zip_code": "97201"
+        },
+        "operating_dates": {
+            "open_date": "01/02/2004",
+            "close_date": null
+        }
+    },
+    {
+        "location_id": 3,
+        "name": "three",
+        "address": {
+            "street": "2245 Easy Street Apt 3",
+            "city": "Portland",
+            "state": "OR",
+            "zip_code": "97201"
+        },
+        "operating_dates": {
+            "open_date": "01/02/2005",
+            "close_date": "05/01/2010"
+        }
+    },
+    {
+        "location_id": 4,
+        "name": "four",
+        "address": {
+            "street": "2245 Easy Street Apt 4",
+            "city": "Portland",
+            "state": "OR",
+            "zip_code": "97201"
+        },
+        "operating_dates": {
+            "open_date": "01/02/2006",
+            "close_date": null
+        }
+    },
+    {
+        "location_id": 5,
+        "name": "five",
+        "address": {
+            "street": "2245 Easy Street Apt 5",
+            "city": "Portland",
+            "state": "OR",
+            "zip_code": "97201"
+        },
+        "operating_dates": {
+            "open_date": "01/02/2007",
+            "close_date": null
+        }
+    }
+]
