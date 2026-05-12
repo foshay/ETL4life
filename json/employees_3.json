@@ -1,0 +1,96 @@
+[
+    {
+        "employee_id": 100001,
+        "first_name": "Employee1",
+        "last_name": "Employee1",
+        "email": "Employee1@example.com",
+        "phone_number": "1234567890",
+        "employment_status": "ACTIVE",
+        "employment_periods": [
+            {
+                "start_date": "2001-01-01",
+                "end_date": null
+            }
+        ],
+        "jobs": [
+            {
+                "job_id": "ENG",
+                "pay_type": "S",
+                "pay_value": 50000,
+                "is_primary": true,
+                "job_periods": [
+                    {
+                        "start_date": "2001-01-01",
+                        "end_date": null
+                    }
+                ]
+            }
+        ],
+        "locations": [
+            {
+                "location_id": "DEV1",
+                "start_date": "2001-01-01",
+                "end_date": null
+            },
+            {
+                "location_id": "HQ",
+                "start_date": "2010-01-01",
+                "end_date": "2015-01-01"
+            },
+            {
+                "location_id": "REMOTE",
+                "start_date": "2015-01-01",
+                "end_date": null
+            }
+        ],
+        "preferred_name": "Emp1"
+    },
+    {
+        "employee_id": 100002,
+        "first_name": "Employee2",
+        "last_name": "Employee2",
+        "email": "Employee2@example.com",
+        "phone_number": "0987654321",
+        "employment_status": "TERMINATED",
+        "employment_periods": [
+            {
+                "start_date": "2001-01-01",
+                "end_date": "2020-01-01"
+            }
+        ],
+        "jobs": [
+            {
+                "job_id": "ENG",
+                "pay_type": "H",
+                "pay_value": 25,
+                "is_primary": true,
+                "job_periods": [
+                    {
+                        "start_date": "2001-01-01",
+                        "end_date": "2020-01-01"
+                    }
+                ]
+            },
+            {
+                "job_id": "MGR",
+                "pay_type": "S",
+                "pay_value": 60000,
+                "is_primary": false,
+                "job_periods": [
+                    {
+                        "start_date": "2010-01-01",
+                        "end_date": "2015-01-01"
+                    }
+                ]
+            }
+        ],
+        "locations": [
+            {
+                "location_id": "DEV1",
+                "start_date": "2001-01-01",
+                "end_date": "2020-01-01"
+            }
+        ],
+        "preferred_name": null
+    }
+]

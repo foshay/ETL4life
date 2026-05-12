@@ -1,0 +1,35 @@
+[
+    {
+        "employee_id": 100001,
+        "first_name": "Employee1",
+        "last_name": "Employee1",
+        "email": "Employee1@example.com",
+        "phone_number": "1234567890",
+        "employment_status": "ACTIVE",
+        "hire_date": "2001-01-01",
+        "job": {
+            "job_id": "ENG",
+            "pay_type": "S",
+            "pay_value": 50000
+        },
+        "location": "DEV1",
+        "preferred_name": "Emp1"
+    },
+    {
+        "employee_id": 100002,
+        "first_name": "Employee2",
+        "last_name": "Employee2",
+        "email": "Employee2@example.com",
+        "phone_number": "0987654321",
+        "employment_status": "TERMINATED",
+        "hire_date": "2001-01-01",
+        "termination_date": "2020-01-01",
+        "job": {
+            "job_id": "ENG",
+            "pay_type": "H",
+            "pay_value": 25
+        },
+        "location": "DEV1",
+        "preferred_name": null
+    }
+]
