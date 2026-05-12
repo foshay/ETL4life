@@ -16,6 +16,10 @@ C being dictionary of lists with 1to1 naming
 When looking at memory consumption, B and C consumed on average 4.52 KB while A only consumed 4.39 KB.
 If for some reason you are strapped for memory, maybe lean towards version A
 
+# pydanticModelParsing
+When converting a list of 100 json objects with nested objects we found the following:
+Using pydantic models took around twice as long as dicts (3201 microseconds vs 1449 microseconds) and used almost twice as much memory (215.13 KB pydantic model vs 111.60 KB dicts)
+
 # Why not use squaredance script instead?
 In real life you use the tech stack that exists. 
 Building things in a language nobody else understands is instant technical bottleneck sedoku.
